@@ -3,7 +3,7 @@ title:  "Cubs win!"
 subtitle: "Oh Yeah!"
 author: "Ying"
 avatar: "img/authors/cats-master-header.png"
-image: "imaxresdefault.jpg"
+image: "Brown Bear Cubs.jpg"
 date:   2015-04-25 12:12:12
 ---
 
