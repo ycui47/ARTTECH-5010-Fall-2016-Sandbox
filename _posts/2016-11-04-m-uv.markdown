@@ -1,0 +1,11 @@
+---
+title:  "My first blog post"
+subtitle: "Fake it till you make it!"
+author: "m-uv"
+avatar: "img/authors/m-uv.jpg"
+image: "img/m-uv-rhino.jpg"
+date:   2016-11-04 12:12:12
+---
+
+### Hello World?
+Let's see if this works...
