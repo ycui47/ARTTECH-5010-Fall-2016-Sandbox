@@ -1,5 +1,5 @@
 ---
-title:  "YCubs win!"
+title:  "Cubs win!"
 subtitle: "Oh Yeah!"
 author: "Ying"
 avatar: "img/authors/cats-master-header.png"
