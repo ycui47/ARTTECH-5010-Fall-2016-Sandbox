@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "Planes are cool!"
+subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+image: "img/g.jpg"
+date:   2015-04-20 12:12:12
 ---
 
 ### Dolor sit amet?
