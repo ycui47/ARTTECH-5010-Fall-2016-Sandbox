@@ -1,0 +1,12 @@
+---
+title:  "YCubs win!"
+subtitle: "Oh Yeah!"
+author: "Ying"
+avatar: "img/authors/cats-master-header.png"
+image: "imaxresdefault.jpg"
+date:   2015-04-25 12:12:12
+---
+
+### Hello Cubs!
+
+
