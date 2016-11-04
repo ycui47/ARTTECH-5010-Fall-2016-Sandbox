@@ -1,11 +1,16 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "Changing this page"
+subtitle: "Bidi bidi bum bum"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+image: "img/d.jpg"
+date:   2016-11-04 12:12:12
 ---
+
+### Making up a paragraph
+This is nothing.
+This is a [link](www.cargocollective.com/liyaostudio)
+
 
 ### Dolor sit amet?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
