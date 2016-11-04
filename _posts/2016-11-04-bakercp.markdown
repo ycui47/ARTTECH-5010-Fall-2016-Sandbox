@@ -1,0 +1,15 @@
+---
+title:  "My first blog post!"
+subtitle: "It's great!"
+author: "bakercp"
+avatar: "img/authors/puppy.jpg"
+image: "img/hello_there_bakercp.jpg"
+date:   2016-11-04 00:10:19
+---
+
+### Hello world?
+This is a test!
+
+This is a little change.
+
+This is a [link](http://google.com).
