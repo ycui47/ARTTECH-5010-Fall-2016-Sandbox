@@ -3,5 +3,5 @@ title: Modern Blog
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://saic-ats.github.io/ARTTECH-5010-Fall-2016-Sandbox/" # the base hostname & protocol for your site
+baseurl: "/ARTTECH-5010-Fall-2016-Sandbox/" # the subpath of your site, e.g. /blog/
+url: "https://saic-ats.github.io" # the base hostname & protocol for your site
