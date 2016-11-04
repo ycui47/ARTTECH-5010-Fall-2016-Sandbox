@@ -8,5 +8,5 @@ date:   2016-11-04 12:12:12
 ---
 
 ### Actually making a page here
-[image](imag/authors/figure12-4.jpeg)
-This is a [link](www.cargocollective.com/liyaostudio)
+[image](img/authors/figure12-4.jpeg)
+This is a [link](http://cargocollective.com/liyaostudio)
